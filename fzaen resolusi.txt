@@ -3,3 +3,6 @@ Fzaen Resolusi
 - belajar php dasar sampai pro
 - belajar API
 - saya ingin membuat sebuah aplikasi Web dan POS
+- belajar DOM
+- belajar PHP OOP
+- tes ubah
