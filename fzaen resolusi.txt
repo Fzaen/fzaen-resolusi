@@ -5,4 +5,5 @@ Fzaen Resolusi
 - saya ingin membuat sebuah aplikasi Web dan POS
 - belajar DOM
 - belajar PHP OOP
-- tes ubah
+- Belajar dengan GIt dan Github
+- belajar Postgresql
