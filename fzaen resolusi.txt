@@ -2,3 +2,4 @@ Fzaen Resolusi
 - belajar dasar Html CSS dan JavaScript
 - belajar php dasar sampai pro
 - belajar API
+- saya ingin membuat sebuah aplikasi Web dan POS
